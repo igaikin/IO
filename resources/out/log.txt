@@ -1,0 +1,57 @@
+Mon Oct 04 21:22:51 MSK 2021
+input:: resources/in/1-17564_cat-png-download-image-cat-jump-png.png
+output:: resources/out/1-17564_cat-png-download-image-cat-jump-png.png
+Mon Oct 04 21:22:51 MSK 2021
+input:: resources/in/1_C-zXmTMHObZWyZBUbdruGg.jpeg
+output:: resources/out/1_C-zXmTMHObZWyZBUbdruGg.jpeg
+Mon Oct 04 21:22:51 MSK 2021
+input:: resources/in/311-3116406_cat-png-free-download-cute-cat-png-transparent.png
+output:: resources/out/311-3116406_cat-png-free-download-cute-cat-png-transparent.png
+Mon Oct 04 21:22:51 MSK 2021
+input:: resources/in/5-51579_cat-png-image-cats-png.png
+output:: resources/out/5-51579_cat-png-image-cats-png.png
+Mon Oct 04 21:22:51 MSK 2021
+input:: resources/in/7PZB8IO.jpg
+output:: resources/out/7PZB8IO.jpg
+Mon Oct 04 21:22:51 MSK 2021
+input:: resources/in/dog-coding-computer-PC-YOSPOS-13857349052.jpg
+output:: resources/out/dog-coding-computer-PC-YOSPOS-13857349052.jpg
+Mon Oct 04 21:22:51 MSK 2021
+input:: resources/in/download.jfif
+output:: resources/out/download.jfif
+Mon Oct 04 21:22:51 MSK 2021
+input:: resources/in/Files.java
+output:: resources/out/Files.java
+Mon Oct 04 21:22:51 MSK 2021
+input:: resources/in/just-keep-coding.jpg
+output:: resources/out/just-keep-coding.jpg
+Mon Oct 04 21:22:51 MSK 2021
+input:: resources/in/my-code-dog-standing-on-cans-indian-guys-on-youtube-stack-overflow-luck-online-forums-from-2008.jpg
+output:: resources/out/my-code-dog-standing-on-cans-indian-guys-on-youtube-stack-overflow-luck-online-forums-from-2008.jpg
+Mon Oct 04 21:22:51 MSK 2021
+input:: resources/in/png-clipart-cute-cat-animal-cat.png
+output:: resources/out/png-clipart-cute-cat-animal-cat.png
+Mon Oct 04 21:22:51 MSK 2021
+input:: resources/in/text.txt
+output:: resources/out/text.txt
+Mon Oct 04 21:23:11 MSK 2021
+input:: resources/in/1_C-zXmTMHObZWyZBUbdruGg.jpeg
+output:: resources/out/1_C-zXmTMHObZWyZBUbdruGg.jpeg(copy)
+SIZE OF FALE (bytes) :: 44267 bytes
+Mon Oct 04 21:23:11 MSK 2021
+input:: resources/in/7PZB8IO.jpg
+output:: resources/out/7PZB8IO.jpg(copy)
+SIZE OF FALE (bytes) :: 423492 bytes
+Mon Oct 04 21:23:11 MSK 2021
+input:: resources/in/dog-coding-computer-PC-YOSPOS-13857349052.jpg
+output:: resources/out/dog-coding-computer-PC-YOSPOS-13857349052.jpg(copy)
+SIZE OF FALE (bytes) :: 49001 bytes
+Mon Oct 04 21:23:11 MSK 2021
+input:: resources/in/just-keep-coding.jpg
+output:: resources/out/just-keep-coding.jpg(copy)
+SIZE OF FALE (bytes) :: 185111 bytes
+Mon Oct 04 21:23:11 MSK 2021
+input:: resources/in/my-code-dog-standing-on-cans-indian-guys-on-youtube-stack-overflow-luck-online-forums-from-2008.jpg
+output:: resources/out/my-code-dog-standing-on-cans-indian-guys-on-youtube-stack-overflow-luck-online-forums-from-2008.jpg(copy)
+SIZE OF FALE (bytes) :: 98337 bytes
+
